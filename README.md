@@ -31,5 +31,6 @@
 * How do you run tests?
  files.test.js
  logger.test.js
+ in the termail you have to run npm test
 * What assertions were made?
 * What assertions need to be / should be made?
