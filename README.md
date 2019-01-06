@@ -11,12 +11,12 @@
 * [server](https://git.heroku.com/niess-06-lab.git)
 
 ### Modules
-#### `modulename.js`
+#### `logger.js`
+#### `fs.js`
+#### `app.js`
+#### `events.js`
+#### `files.js`
 ##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
 
 ### Setup
 #### `.env` requirements
@@ -29,5 +29,7 @@ Usage Notes or examples
 
 #### Tests
 * How do you run tests?
+ files.test.js
+ logger.test.js
 * What assertions were made?
 * What assertions need to be / should be made?
